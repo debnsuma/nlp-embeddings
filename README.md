@@ -1,6 +1,6 @@
 # Embeddings for NLP
 
-Welcome to the Embeddings for NLP repository. This repository contains a Jupyter Notebook, `main.ipynb`, which covers various concepts related to embeddings in Natural Language Processing (NLP). This is based on the book [Build a Large Language Model (From Scratch)][https://www.manning.com/books/build-a-large-language-model-from-scratch]
+Welcome to the Embeddings for NLP repository. This repository contains a Jupyter Notebook, `main.ipynb`, which covers various concepts related to embeddings in Natural Language Processing (NLP). This is based on the book [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
 
 ## Overview
 
